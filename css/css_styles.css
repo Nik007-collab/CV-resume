@@ -1,0 +1,43 @@
+body {
+    background-color: #9EA1D4;
+    
+ }
+ hr {
+    background-color: none;
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        border-color: #0A2647;
+        
+        width: 5%;
+
+    }
+    img:hover{
+        background-color: #f8ff3b;
+        
+    }
+    .pichai {
+        height: 300px;
+        background-color: none;
+    }
+    .circular{
+        border-radius: 200px;
+    }
+    .pack1{
+        background-color: black;
+        height: 200px
+        
+    }
+    .pack2{
+        background-color: white;
+        height: 150px
+    }
+    h3{
+        color: #0A2647;
+    }
+    h1{
+        color: #0A2647;
+    }
+    body, h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Geneva, sans-serif;
+}
